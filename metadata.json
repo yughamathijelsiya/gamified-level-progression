@@ -1,0 +1,6 @@
+{
+  "name": "LEVELUP - Gamified Mini-Game Hub",
+  "description": "A premium gamification web platform featuring 5 original playable mini-games, leveling progression, achievements, daily quests, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
